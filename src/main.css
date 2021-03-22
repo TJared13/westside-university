@@ -73,6 +73,20 @@ a {
   color: white;
 }
 
+.backLink {
+  position: absolute;
+  right: 0px;
+  margin-right: 50px;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.backLink:hover {
+  color: #143A56;
+  text-decoration: underline;
+}
 .title {
   text-align: center;
 }
